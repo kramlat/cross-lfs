@@ -8,13 +8,13 @@
 <!ENTITY acl-version "2.2.53">
 <!ENTITY acl-size "384 KB">
 <!ENTITY acl-url "&savannah;/releases/acl/acl-&acl-version;.src.tar.gz">
-<!ENTITY acl-md5 "a61415312426e9c2212bd7dc7929abda">
+<!ENTITY acl-md5 "007aabf1dbb550bcddde52a244cd1070">
 <!ENTITY acl-home "http://savannah.nongnu.org/projects/acl">
 
 <!ENTITY attr-version "2.4.48">
 <!ENTITY attr-size "340 KB">
 <!ENTITY attr-url "&savannah;/releases/attr/attr-&attr-version;.src.tar.gz">
-<!ENTITY attr-md5 "84f58dec00b60f2dc8fd1c9709291cc7">
+<!ENTITY attr-md5 "bc1e5cb5c96d99b24886f1f527d3bb3d">
 <!ENTITY attr-home "http://savannah.nongnu.org/projects/attr">
 
 <!ENTITY arcload-version "0.5">
@@ -33,13 +33,13 @@
 <!ENTITY automake-version "&automake-version2;">
 <!ENTITY automake-size "1,497 KB">
 <!ENTITY automake-url "&gnu;automake/automake-&automake-version;.tar.xz">
-<!ENTITY automake-md5 "9a1ddb0e053474d9d1105cfe39b0c48d">
+<!ENTITY automake-md5 "53f38e7591fa57c3d2cee682be668e5b">
 <!ENTITY automake-home "&gnu-software;automake">
 
 <!ENTITY bash-version "5.0">
 <!ENTITY bash-size "9,377 KB">
 <!ENTITY bash-url "&gnu;bash/bash-&bash-version;.tar.gz">
-<!ENTITY bash-md5 "148888a7c95ac23705559b6f477dfe25">
+<!ENTITY bash-md5 "2b44b47b905be16f45709648f671820b">
 <!ENTITY bash-home "&gnu-software;bash">
 
 <!ENTITY bc-version "1.07.1">
@@ -52,13 +52,13 @@
 <!ENTITY binutils-dir "&binutils-version;">
 <!ENTITY binutils-size "26,556 KB">
 <!ENTITY binutils-url "&gnu;binutils/binutils-&binutils-version;.tar.bz2">
-<!ENTITY binutils-md5 "9e8340c96626b469a603c15c9d843727">
+<!ENTITY binutils-md5 "0d174cdaf85721c5723bf52355be41e6">
 <!ENTITY binutils-home "http://sources.redhat.com/binutils">
 
 <!ENTITY bison-version "3.4.1">
 <!ENTITY bison-size "1,974 KB">
 <!ENTITY bison-url "&gnu;bison/bison-&bison-version;.tar.xz">
-<!ENTITY bison-md5 "c342201de104cc9ce0a21e0ad10d4021">
+<!ENTITY bison-md5 "201286a573b12da109df96282fe4ff4a">
 <!ENTITY bison-home "&gnu-software;bison">
 
 <!ENTITY boot-scripts-clfs-version "3.0-20140710">
@@ -76,7 +76,7 @@
 <!ENTITY check-version "0.12.0">
 <!ENTITY check-size "754 KB">
 <!ENTITY check-url "https://github.com/libcheck/check/releases/download/&check-version;/check-&check-version;.tar.gz">
-<!ENTITY check-md5 "9b90522b31f5628c2e0f55dda348e558">
+<!ENTITY check-md5 "31b17c6075820a434119592941186f70">
 <!ENTITY check-home "http://libcheck.github.io/check/">
 
 <!ENTITY clfs-network-scripts-version "20140224">
@@ -94,19 +94,19 @@
 <!ENTITY coreutils-version "8.31">
 <!ENTITY coreutils-size "5,286 KB">
 <!ENTITY coreutils-url "&gnu;coreutils/coreutils-&coreutils-version;.tar.xz">
-<!ENTITY coreutils-md5 "502795792c212932365e077946d353ae">
+<!ENTITY coreutils-md5 "0009a224d8e288e8ec406ef0161f9293">
 <!ENTITY coreutils-home "&gnu-software;coreutils/coreutils.html">
 
 <!ENTITY dbus-version "1.12.12">
 <!ENTITY dbus-size "1,987 KB">
 <!ENTITY dbus-url "http://dbus.freedesktop.org/releases/dbus/dbus-&dbus-version;.tar.gz">
-<!ENTITY dbus-md5 "1209c455598165a0c5263d4201894179">
+<!ENTITY dbus-md5 "ea11069521beeee4e47f0086596a43c8">
 <!ENTITY dbus-home "http://www.freedesktop.org/wiki/Software/dbus">
 
 <!ENTITY dejagnu-version "1.6.2">
 <!ENTITY dejagnu-size "524 KB">
 <!ENTITY dejagnu-url "&gnu;dejagnu/dejagnu-&dejagnu-version;.tar.gz">
-<!ENTITY dejagnu-md5 "1fdc2eb0d592c4f89d82d24dfdf02f0b">
+<!ENTITY dejagnu-md5 "e1b07516533f351b3aba3423fafeffd6">
 <!ENTITY dejagnu-home "&gnu-software;dejagnu">
 
 <!ENTITY dhcpcd-version "6.11.5">
@@ -118,7 +118,7 @@
 <!ENTITY diffutils-version "3.7">
 <!ENTITY diffutils-size "1,398 KB">
 <!ENTITY diffutils-url "&gnu;diffutils/diffutils-&diffutils-version;.tar.xz">
-<!ENTITY diffutils-md5 "07cf286672ced26fba54cd0313bdc071">
+<!ENTITY diffutils-md5 "4824adc0e95dbbf11dfbdfaad6a1e461">
 <!ENTITY diffutils-home "&gnu-software;diffutils">
 
 <!ENTITY dvhtool-version "1.0.1">
@@ -130,7 +130,7 @@
 <!ENTITY e2fsprogs-version "1.45.2">
 <!ENTITY e2fsprogs-size "5,266 KB">
 <!ENTITY e2fsprogs-url "&kernel;linux/kernel/people/tytso/e2fsprogs/v&e2fsprogs-version;/e2fsprogs-&e2fsprogs-version;.tar.xz">
-<!ENTITY e2fsprogs-md5 "8903379ef0b902f4e29b6cafea359fe1">
+<!ENTITY e2fsprogs-md5 "45933b29a045735c2d5a2b29ce3f4480">
 <!ENTITY e2fsprogs-home "http://e2fsprogs.sourceforge.net">
 
 <!ENTITY elftoaout-version "2.3">
@@ -148,13 +148,13 @@
 <!ENTITY expat-version "2.2.6">
 <!ENTITY expat-size "414 KB">
 <!ENTITY expat-url "&sourceforge;expat/expat-&expat-version;.tar.bz2">
-<!ENTITY expat-md5 "2f47841c829facb346eb6e3fab5212e2">
+<!ENTITY expat-md5 "ca047ae951b40020ac831c28859161b2">
 <!ENTITY expat-home "http://expat.sourceforge.net">
 
 <!ENTITY expect-version "5.45.4">
 <!ENTITY expect-size "616 KB">
 <!ENTITY expect-url "&sourceforge;project/expect/Expect/&expect-version;/expect&expect-version;.tar.gz">
-<!ENTITY expect-md5 "44e1a4f4c877e9ddc5a542dfa7ecc92b">
+<!ENTITY expect-md5 "00fce8de158422f5ccd2666512329bd2">
 <!ENTITY expect-home "http://expect.sourceforge.net">
 <!ENTITY expect-lib-version "5.43">
 
@@ -162,7 +162,7 @@
 <!ENTITY file-size "792 KB">
 <!ENTITY file-url "ftp://ftp.astron.com/pub/file/file-&file-version;.tar.gz">
 <!--<!ENTITY file-url "&packages-root;file-&file-version;.tar.gz">-->
-<!ENTITY file-md5 "319627d20c9658eae85b056115b8c90a">
+<!ENTITY file-md5 "80c29aca745466c6c24d11f059329075">
 <!ENTITY file-home "http://www.darwinsys.com/file">
 
 <!ENTITY findutils-version "4.6.0">
@@ -180,31 +180,31 @@
 <!ENTITY gawk-version "5.0.0">
 <!ENTITY gawk-size "2,368 KB">
 <!ENTITY gawk-url "&gnu;gawk/gawk-&gawk-version;.tar.xz">
-<!ENTITY gawk-md5 "4e7dbc81163e60fd4f0b52496e7542c9">
+<!ENTITY gawk-md5 "129d061e362778cad070d1bbfe2b1183">
 <!ENTITY gawk-home "&gnu-software;gawk">
 
 <!ENTITY gcc-version "9.1.0">
 <!ENTITY gcc-size "84,304 KB">
 <!ENTITY gcc-url "ftp://gcc.gnu.org/pub/gcc/releases/gcc-&gcc-version;/gcc-&gcc-version;.tar.bz2">
-<!ENTITY gcc-md5 "6bf56a2bca9dac9dbbf8e8d1036964a8">
+<!ENTITY gcc-md5 "6069ae3737cf02bf2cb44a391ef0e937">
 <!ENTITY gcc-home "http://gcc.gnu.org">
 
 <!ENTITY gdbm-version "1.18.1">
 <!ENTITY gdbm-size "892 KB">
 <!ENTITY gdbm-url "&gnu;gdbm/gdbm-&gdbm-version;.tar.gz">
-<!ENTITY gdbm-md5 "8929dcda2a8de3fd2367bdbf66769376">
+<!ENTITY gdbm-md5 "988dc82182121c7570e0cb8b4fcd5415">
 <!ENTITY gdbm-home "&gnu-software;gdbm">
 
 <!ENTITY gettext-version "0.20.1">
 <!ENTITY gettext-size "7,210 KB">
 <!ENTITY gettext-url "&gnu;gettext/gettext-&gettext-version;.tar.xz">
-<!ENTITY gettext-md5 "df3f5690eaa30fd228537b00cb7b7590">
+<!ENTITY gettext-md5 "9ed9e26ab613b668e0026222a9c23639">
 <!ENTITY gettext-home "&gnu-software;gettext">
 
 <!ENTITY glibc-version "2.29">
 <!ENTITY glibc-size "13,874 KB">
 <!ENTITY glibc-url "&gnu;glibc/glibc-&glibc-version;.tar.xz">
-<!ENTITY glibc-md5 "1496c3bf41adf9db0ebd0af01f202eed">
+<!ENTITY glibc-md5 "e6c279d5b2f0736f740216f152acf974">
 <!ENTITY glibc-home "&gnu-software;libc/">
 <!ENTITY glibc-ld-name "ld-&glibc-version;.so">
 <!ENTITY glibc-kernel-version "3.12.0">
@@ -218,31 +218,31 @@
 <!ENTITY gperf-version "3.1">
 <!ENTITY gperf-size "968 KB">
 <!ENTITY gperf-url "&gnu;gperf/gperf-&gperf-version;.tar.gz">
-<!ENTITY gperf-md5 "c1f1db32fb6598d6a93e6e88796a8632">
+<!ENTITY gperf-md5 "9e251c0a618ad0824b51117d5d9db87e">
 <!ENTITY gperf-home "&gnu-software;gperf">
 
 <!ENTITY grep-version "3.3">
 <!ENTITY grep-size "1,375 KB">
 <!ENTITY grep-url "&gnu;grep/grep-&grep-version;.tar.xz">
-<!ENTITY grep-md5 "fa07c1616adeb9c3262be5177d10ad4a">
+<!ENTITY grep-md5 "05d0718a1b7cc706a4bdf8115363f1ed">
 <!ENTITY grep-home "&gnu-software;grep">
 
 <!ENTITY groff-version "1.22.4">
 <!ENTITY groff-size "4,189 KB">
 <!ENTITY groff-url "&gnu;groff/groff-&groff-version;.tar.gz">
-<!ENTITY groff-md5 "cc825fa64bc7306a885f2fb2268d3ec5">
+<!ENTITY groff-md5 "08fb04335e2f5e73f23ea4c3adbf0c5f">
 <!ENTITY groff-home "&gnu-software;groff">
 
 <!ENTITY grub-version "2.02">
 <!ENTITY grub-size "5,020 KB">
 <!ENTITY grub-url "&gnu;grub/grub-&grub-version;.tar.xz">
-<!ENTITY grub-md5 "a1043102fbc7bcedbf53e7ee3d17ab91">
+<!ENTITY grub-md5 "8a4a2a95aac551fb0fba860ceabfa1d3">
 <!ENTITY grub-home "&gnu-software;grub">
 
 <!ENTITY gzip-version "1.10">
 <!ENTITY gzip-size "728 KB">
 <!ENTITY gzip-url "&gnu;gzip/gzip-&gzip-version;.tar.xz">
-<!ENTITY gzip-md5 "f7caabb65cddc1a4165b398009bd05b9">
+<!ENTITY gzip-md5 "691b1221694c3394f1c537df4eee39d3">
 <!ENTITY gzip-home "&gnu-software;gzip/gzip.html">
 
 <!ENTITY hfsutils-version "3.2.6">
@@ -268,7 +268,7 @@
 <!ENTITY iproute2-version "5.1.0">
 <!ENTITY iproute2-size "613 KB">
 <!ENTITY iproute2-url "&kernel;linux/utils/net/iproute2/iproute2-&iproute2-version;.tar.xz">
-<!ENTITY iproute2-md5 "44a8371a4b2c40e48e4c9f98cbd41391">
+<!ENTITY iproute2-md5 "a2b8349abf4ae00e92155fda22de4d5e">
 <!ENTITY iproute2-home "http://www.linuxfoundation.org/collaborate/workgroups/networking/iproute2">
 
 <!ENTITY iputils-version "s20150815">
@@ -292,25 +292,25 @@
 <!ENTITY kmod-version "26">
 <!ENTITY kmod-size "537 KB">
 <!ENTITY kmod-url "&kernel;linux/utils/kernel/kmod/kmod-&kmod-version;.tar.xz">
-<!ENTITY kmod-md5 "08297dfb6f2b3f625f928ca3278528af">
+<!ENTITY kmod-md5 "1129c243199bdd7db01b55a61aa19601">
 <!ENTITY kmod-home "http://git.kernel.org/?p=utils/kernel/kmod/kmod.git;a=summary">
 
 <!ENTITY less-version "530">
 <!ENTITY less-size "320 KB">
 <!ENTITY less-url "http://www.greenwoodsoftware.com/less/less-&less-version;.tar.gz">
-<!ENTITY less-md5 "81e260e8b12f253c31565acad6ee0e59">
+<!ENTITY less-md5 "6a39bccf420c946b0fd7ffc64961315b">
 <!ENTITY less-home "http://www.greenwoodsoftware.com/less">
 
 <!ENTITY libcap-version "2.27">
 <!ENTITY libcap-size "64 KB">
 <!ENTITY libcap-url "&kernel;linux/libs/security/linux-privs/libcap2/libcap-&libcap-version;.tar.xz">
-<!ENTITY libcap-md5 "6666b839e5d46c2ad33fc8aa2ceb5f77">
+<!ENTITY libcap-md5 "2e8f9fab32eb5ccb37969fe317fd17aa">
 <!ENTITY libcap-home "http://sites.google.com/site/fullycapable/">
 
 <!ENTITY libpipeline-version "1.5.1">
 <!ENTITY libpipeline-size "805 KB">
 <!ENTITY libpipeline-url "&savannah;/releases/libpipeline/libpipeline-&libpipeline-version;.tar.gz">
-<!ENTITY libpipeline-md5 "e54590ec68d6c1239f67b5b44e92022c">
+<!ENTITY libpipeline-md5 "4c8fe6cd85422baafd6e060f896c61bc">
 <!ENTITY libpipeline-home "http://libpipeline.nongnu.org/">
 
 <!ENTITY libtool-version "2.4.6">
@@ -324,7 +324,7 @@
 <!ENTITY linux-version2 "&linux-version;.6">
 <!ENTITY linux-size "93,192 KB">
 <!ENTITY linux-url "&kernel;linux/kernel/v&linux-dl-version;/linux-&linux-version;.tar.xz">
-<!ENTITY linux-md5 "0a68ef3615c64bd5ee54a3320e46667d">
+<!ENTITY linux-md5 "252fe34c28205fcaaa6b1b3782576b84">
 <!ENTITY linux-home "http://www.kernel.org">
 
 <!ENTITY m4-version "1.4.18">
@@ -342,31 +342,31 @@
 <!ENTITY man-db-version "2.8.5">
 <!ENTITY man-db-size "1,541 KB">
 <!ENTITY man-db-url "&packages-root;man-db-&man-db-version;.tar.xz">
-<!ENTITY man-db-md5 "2948d49d0ed7265f60f83aa4a9ac9268">
+<!ENTITY man-db-md5 "c5c6c3434be14a5527d43b5ad0f09a13">
 <!ENTITY man-db-home "http://man-db.nongnu.org">
 
 <!ENTITY man-pages-version "5.01">
 <!ENTITY man-pages-size "1,522 KB">
 <!ENTITY man-pages-url "&kernel;linux/docs/man-pages/man-pages-&man-pages-version;.tar.xz">
-<!ENTITY man-pages-md5 "91c721409bbf823d8f62bee3a1fe8ae3">
+<!ENTITY man-pages-md5 "5f75f72efcbe5cd245c4d9f36005d070">
 <!ENTITY man-pages-home "http://www.win.tue.nl/~aeb/linux/man">
 
 <!ENTITY mpc-version "1.1.0">
 <!ENTITY mpc-size "670 KB">
 <!ENTITY mpc-url "http://www.multiprecision.org/mpc/download/mpc-&mpc-version;.tar.gz">
-<!ENTITY mpc-md5 "d6a1d5f8ddea3abd2cc3e98f58352d26">
+<!ENTITY mpc-md5 "4125404e41e482ec68282a2e687f6c73">
 <!ENTITY mpc-home "http://www.multiprecision.org/">
 
 <!ENTITY mpfr-version "4.0.2">
 <!ENTITY mpfr-size "1,127 KB">
 <!ENTITY mpfr-url "http://www.mpfr.org/mpfr-&mpfr-version;/mpfr-&mpfr-version;.tar.xz">
-<!ENTITY mpfr-md5 "c4ac246cf9795a4491e7766002cd528f">
+<!ENTITY mpfr-md5 "320fbc4463d4c8cb1e566929d8adc4f8">
 <!ENTITY mpfr-home "http://www.mpfr.org/">
 
 <!ENTITY ncurses-version "6.1">
 <!ENTITY ncurses-size "3,132 KB">
 <!ENTITY ncurses-url "&gnu;ncurses/ncurses-&ncurses-version;.tar.gz">
-<!ENTITY ncurses-md5 "ee13d052e1ead260d7c28071f46eefb1">
+<!ENTITY ncurses-md5 "98c889aaf8d23910d2b92d65be2e737a">
 <!ENTITY ncurses-home "&gnu-software;ncurses">
 
 <!ENTITY parted-version "3.1">
@@ -384,13 +384,13 @@
 <!ENTITY perl-version "5.30.0">
 <!ENTITY perl-size "11,962 KB">
 <!ENTITY perl-url "http://www.cpan.org/src/5.0/perl-&perl-version;.tar.xz">
-<!ENTITY perl-md5 "8c6995718e4cb62188f0d5e3488cd91f">
+<!ENTITY perl-md5 "037c35000550bdcb47552ad0f6d3064d">
 <!ENTITY perl-home "https://www.perl.org">
 
 <!ENTITY pkg-config-lite-version "0.29.2">
 <!ENTITY pkg-config-lite-size "384 KB">
 <!ENTITY pkg-config-lite-url "http://sourceforge.net/projects/pkgconfiglite/files/0.28-1/pkg-config-lite-&pkg-config-lite-version;.tar.gz">
-<!ENTITY pkg-config-lite-md5 "61f05feb6bab0a6bbfab4b6e3b2f44b6">
+<!ENTITY pkg-config-lite-md5 "f6e931e319531b736fadc017f470e68a">
 <!ENTITY pkg-config-lite-home "http://sourceforge.net/projects/pkgconfiglite">
 
 <!ENTITY powerpcutils-version "1.1.3">
@@ -402,31 +402,31 @@
 <!ENTITY procps-ng-version "3.3.15">
 <!ENTITY procps-ng-size "845 KB">
 <!ENTITY procps-ng-url "http://sourceforge.net/projects/procps-ng/files/Production/procps-ng-&procps-ng-version;.tar.xz">
-<!ENTITY procps-ng-md5 "957e42e8b193490b2111252e4a2b443c">
+<!ENTITY procps-ng-md5 "2b0717a7cb474b3d6dfdeedfbad2eccc">
 <!ENTITY procps-ng-home "http://sourceforge.net/projects/procps-ng">
 
 <!ENTITY psmisc-version "23.2">
 <!ENTITY psmisc-size "458 KB">
 <!ENTITY psmisc-url "&sourceforge;psmisc/psmisc-&psmisc-version;.tar.gz">
-<!ENTITY psmisc-md5 "935c0fd6eb208288262b385fa656f1bf">
+<!ENTITY psmisc-md5 "0524258861f00be1a02d27d39d8e5e62">
 <!ENTITY psmisc-home "http://psmisc.sourceforge.net">
 
 <!ENTITY readline-version "8.0">
 <!ENTITY readline-size "2,910 KB">
 <!ENTITY readline-url "&gnu;readline/readline-&readline-version;.tar.gz">
-<!ENTITY readline-md5 "205b03a87fc83dab653b628c59b9fc91">
+<!ENTITY readline-md5 "7e6c1f16aee3244a69aba6e438295ca3">
 <!ENTITY readline-home "http://cnswww.cns.cwru.edu/php/chet/readline/rltop.html">
 
 <!ENTITY sed-version "4.7">
 <!ENTITY sed-size "1,182 KB">
 <!ENTITY sed-url "&gnu;sed/sed-&sed-version;.tar.xz">
-<!ENTITY sed-md5 "e0c583d4c380059abd818cd540fe6938">
+<!ENTITY sed-md5 "777ddfd9d71dd06711fe91f0925e1573">
 <!ENTITY sed-home "&gnu-software;sed">
 
 <!ENTITY shadow-version "4.6">
 <!ENTITY shadow-size "1,627 KB">
 <!ENTITY shadow-url "https://github.com/shadow-maint/shadow/releases/download/&shadow-version;/shadow-&shadow-version;.tar.xz">
-<!ENTITY shadow-md5 "c350da50c2120de6bb29177699d89fe3">
+<!ENTITY shadow-md5 "b491fecbf1232632c32ff8f1437fd60e">
 <!ENTITY shadow-home "http://pkg-shadow.alioth.debian.org">
 
 <!ENTITY silo-version "1.4.14">
@@ -435,41 +435,41 @@
 <!ENTITY silo-md5 "168182dfa0025914ceecac9591a6674c">
 <!ENTITY silo-home "">
 
-<!ENTITY sysvinit-version "2.88dsf">
+<!ENTITY sysvinit-version "2.94">
 <!ENTITY sysvinit-size "104 KB">
 <!ENTITY sysvinit-url "&savannah;/releases/sysvinit/sysvinit-&sysvinit-version;.tar.bz2">
-<!ENTITY sysvinit-md5 "6eda8a97b86e0a6f59dabbf25202aa6f">
+<!ENTITY sysvinit-md5 "885ae742d51dbae8d16f535455c0240a">
 <!ENTITY sysvinit-home "http://savannah.nongnu.org/projects/sysvinit">
 
 <!ENTITY systemd-version "241">
 <!ENTITY systemd-size "4,106 KB">
 <!ENTITY systemd-url "http://www.linuxfromscratch.org/~krejzi/systemd/systemd-&systemd-version;.tar.xz">
-<!ENTITY systemd-md5 "e67d7664714ff5efe5b59cddedbe26a4">
+<!ENTITY systemd-md5 "c5953c24c850b44fcf714326e567dc37">
 <!ENTITY systemd-home "http://freedesktop.org/wiki/Software/systemd">
 
 <!ENTITY tar-version "1.32">
 <!ENTITY tar-size "1,996 KB">
 <!ENTITY tar-url "&gnu;tar/tar-&tar-version;.tar.xz">
-<!ENTITY tar-md5 "a1802fec550baaeecff6c381629653ef">
+<!ENTITY tar-md5 "83e38700a80a26e30b2df054e69956e5">
 <!ENTITY tar-home "&gnu-software;tar">
 
 <!ENTITY tcl-version2 "8.6">
 <!ENTITY tcl-version "&tcl-version2;.9">
 <!ENTITY tcl-size "8,857 KB">
 <!ENTITY tcl-url "&sourceforge;tcl/tcl-core&tcl-version;-src.tar.gz">
-<!ENTITY tcl-md5 "8b8c9d85469d8dbe32e51117b8ef11e3">
+<!ENTITY tcl-md5 "aa0a121d95a0e7b73a036f26028538d4">
 <!ENTITY tcl-home "http://www.tcl.tk">
 
 <!ENTITY tzdata-version "2019a">
 <!ENTITY tzdata-size "324 KB">
 <!ENTITY tzdata-url "http://www.iana.org/time-zones/repository/releases/tzdata&tzdata-version;.tar.gz">
-<!ENTITY tzdata-md5 "50dc0dc50c68644c1f70804f2e7a1625">
+<!ENTITY tzdata-md5 "288f7b1e43018c633da108f13b27cf91">
 <!ENTITY tzdata-home "http://www.iana.org/time-zones">
 
 <!ENTITY texinfo-version "6.6">
 <!ENTITY texinfo-size "4,468 KB">
 <!ENTITY texinfo-url "&gnu;texinfo/texinfo-&texinfo-version;.tar.xz">
-<!ENTITY texinfo-md5 "32baefe5c7080dfb512a4eac5ce67b2a">
+<!ENTITY texinfo-md5 "5231da3e6aa106cd0532b8609e5b3702">
 <!ENTITY texinfo-home "&gnu-software;texinfo">
 
 <!ENTITY uname_hack-version "20080713">
@@ -482,7 +482,7 @@
 <!ENTITY util-linux-version "&util-linux-major-version;.2">
 <!ENTITY util-linux-size "4,278 KB">
 <!ENTITY util-linux-url "&kernel;linux/utils/util-linux/v&util-linux-major-version;/util-linux-&util-linux-version;.tar.xz">
-<!ENTITY util-linux-md5 "63c40c2068fcbb7e1d5c1d281115d973">
+<!ENTITY util-linux-md5 "91653b90fcbe9c161153e39b8cc69fb5">
 <!ENTITY util-linux-blkid-id "1.1.0">
 <!ENTITY util-linux-uuid-id "1.3.0">
 
@@ -490,7 +490,7 @@
 <!ENTITY vim-version2 "0597">
 <!ENTITY vim-size "10,867 KB">
 <!ENTITY vim-url "ftp://ftp.vim.org/pub/vim/unix/vim-&vim-version;.tar.bz2">
-<!ENTITY vim-md5 "b35e794140c196ff59b492b56c1e73db">
+<!ENTITY vim-md5 "1739a1df312305155285f0cfa6118294">
 <!ENTITY vim-home "http://www.vim.org">
 
 <!ENTITY xml-parser-version "2.44">
@@ -502,7 +502,7 @@
 <!ENTITY xz-version "5.2.4">
 <!ENTITY xz-size "1,032 KB">
 <!ENTITY xz-url "http://tukaani.org/xz/xz-&xz-version;.tar.xz">
-<!ENTITY xz-md5 "60fb79cab777e3f71ca43d298adacbd5">
+<!ENTITY xz-md5 "003e4d0b1b1899fc6e3000b24feddf7c">
 <!ENTITY xz-home "http://tukaani.org/xz/">
 
 <!ENTITY yaboot-version "1.3.17">
