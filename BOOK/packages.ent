@@ -142,9 +142,10 @@
 <!ENTITY elfutils-version "0.176">
 <!ENTITY elfutils-size "8,444 KB">
 <!ENTITY elfutils-url "https://sourceware.org/ftp/elfutils/&elfutils-version;/elfutils-&elfutils-version;.tar.bz2">
-<!ENTITY elfutils-md5 "be3bd6f7ba8ae107cbdbaa820ba64f86">
+<!ENTITY elfutils-md5 "077e4f49320cad82bf17a997068b1db9">
 <!ENTITY elfutils-home "https://sourceware.org/ftp/elfutils/">
 
+<!--to be removed in a future commit-->
 <!ENTITY eudev-version "1.7">
 <!ENTITY eudev-size "1,756 KB">
 <!ENTITY eudev-url "http://dev.gentoo.org/~blueness/eudev/eudev-&eudev-version;.tar.gz">
@@ -312,6 +313,12 @@
 <!ENTITY libcap-url "&kernel;linux/libs/security/linux-privs/libcap2/libcap-&libcap-version;.tar.xz">
 <!ENTITY libcap-md5 "2e8f9fab32eb5ccb37969fe317fd17aa">
 <!ENTITY libcap-home "http://sites.google.com/site/fullycapable/">
+
+<!ENTITY libffi-version "3.2.1">
+<!ENTITY libffi-size "920 KB">
+<!ENTITY libffi-url "ftp://sourceware.org/pub/libffi/libffi-&libffi-version;.tar.gz">
+<!ENTITY libffi-md5 "83b89587607e3eb65c70d361f13bab43">
+<!ENTITY libffi-home "https://sourceware.org/libffi/">
 
 <!ENTITY libpipeline-version "1.5.1">
 <!ENTITY libpipeline-size "805 KB">
