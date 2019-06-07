@@ -629,11 +629,17 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Systemd (&systemd-version;) - <token>&systemd-size;</token>:</term>
+      <term>Systemd (&systemd-version;) - <token>&systemd-size; (source)</token> <token>&systemdm-size; (man)</token>:</term>
       <listitem>
         <para>Home page: <ulink url="&systemd-home;"/></para>
-        <para>Download: <ulink url="&systemd-url;"/></para>
-        <para>MD5 sum: <literal>&systemd-md5;</literal></para>
+        <para>Download (source): <ulink url="&systemd-url;"/></para>
+        <para>MD5 sum (source): <literal>&systemd-md5;</literal></para>
+        <para>Download (man): <ulink url="&systemdm-url;"/></para>
+        <para>MD5 sum (man): <literal>&systemdm-md5;</literal></para>
+
+        <note>
+          <para>The Linux From Scratch team generates its own tarball of the man pages using the systemd source. This is done in order to avoid unnecessary dependencies.</para>
+        </note>
       </listitem>
     </varlistentry>
 
