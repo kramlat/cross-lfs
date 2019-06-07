@@ -348,7 +348,7 @@
     </listitem>
 
     <listitem>
-      <para>Pkg-config-lite</para>
+      <para>Pkg-config</para>
       <para>Several packages in CLFS, and many others outside of CLFS,
       use <command>pkg-config</command> to locate dependencies.</para>
     </listitem>

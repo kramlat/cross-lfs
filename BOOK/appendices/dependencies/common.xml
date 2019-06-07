@@ -566,7 +566,7 @@
 
         <seglistitem>
          <seg>Bash, Binutils, Coreutils, Glibc, Gawk, GCC, Gettext, Grep, Gzip,
-         Make, Pkg-config-lite, Sed, Texinfo, Util-linux</seg>
+         Make, Pkg-config, Sed, Texinfo, Util-linux</seg>
         </seglistitem>
       </segmentedlist>
 
@@ -804,7 +804,7 @@
         <segtitle>&before;</segtitle>
 
         <seglistitem>
-          <seg>Pkg-config-lite</seg>
+          <seg>Pkg-config</seg>
         </seglistitem>
       </segmentedlist> -->
 
@@ -1148,7 +1148,7 @@
 
         <seglistitem>
          <seg>Bash, Binutils, Bison, Coreutils, Glibc, Flex, Gawk, GCC,
-         Gettext, Gzip, Make, Pkg-config-lite, Sed, XZ Utils, Zlib.
+         Gettext, Gzip, Make, Pkg-config, Sed, XZ Utils, Zlib.
          </seg>
         </seglistitem>
       </segmentedlist>
@@ -1510,7 +1510,7 @@
 
         <seglistitem>
          <seg>Bash, Binutils, Coreutils, Diffutils, Glibc, Gawk, GCC, Grep,
-         Make, Pkg-config-lite, Sed</seg>
+         Make, Pkg-config, Sed</seg>
         </seglistitem>
       </segmentedlist>
 
@@ -1586,8 +1586,8 @@
         </seglistitem>
       </segmentedlist>
 
-<!-- Begin Pkg-config-lite dependency info -->
-  <bridgehead renderas="sect2" id="pkg-config-lite-dep">Pkg-config-lite</bridgehead>
+<!-- Begin Pkg-config dependency info -->
+  <bridgehead renderas="sect2" id="pkg-config-dep">Pkg-config</bridgehead>
 
       <segmentedlist>
         <segtitle>&dependencies;</segtitle>
@@ -1874,7 +1874,7 @@
 
         <seglistitem>
          <seg>Bash, Binutils, Coreutils, Glibc, GCC, Grep,
-         Make, Ncurses, Pkg-config-lite, Sed, Texinfo, Zlib</seg>
+         Make, Ncurses, Pkg-config, Sed, Texinfo, Zlib</seg>
         </seglistitem>
       </segmentedlist>
 

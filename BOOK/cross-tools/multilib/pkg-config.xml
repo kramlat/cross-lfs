@@ -5,29 +5,29 @@
   %general-entities;
 ]>
 
-<sect1 id="ch-cross-tools-pkg-config-lite" role="wrap">
-  <?dbhtml filename="pkg-config-lite.html"?>
+<sect1 id="ch-cross-tools-pkg-config" role="wrap">
+  <?dbhtml filename="pkg-config.html"?>
 
-  <title>Pkg-config-lite-&pkg-config-lite-version;</title>
+  <title>Pkg-config-&pkg-config-version;</title>
 
-  <indexterm zone="ch-cross-tools-pkg-config-lite">
-    <primary sortas="a-Pkg-config-lite">Pkg-config-lite</primary>
+  <indexterm zone="ch-cross-tools-pkg-config">
+    <primary sortas="a-Pkg-config">Pkg-config</primary>
     <secondary>cross tools</secondary>
   </indexterm>
 
   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-  href="../../final-system/common/pkg-config-lite.xml"
+  href="../../final-system/common/pkg-config.xml"
   xpointer="xpointer(//*[@role='package'])"/>
 
   <sect2 role="installation">
-    <title>Installation of Pkg-config-lite</title>
+    <title>Installation of Pkg-config</title>
 
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-    href="../common/pkg-config-lite.xml"
+    href="../common/pkg-config.xml"
     xpointer="xpointer(//*[@os='a'])"/>
 
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-    href="../common/pkg-config-lite.xml"
+    href="../common/pkg-config.xml"
     xpointer="xpointer(//*[@os='b'])"/>
 
 <screen os="c"><userinput>./configure \
@@ -60,19 +60,19 @@
     </variablelist>
 
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-    href="../common/pkg-config-lite.xml"
+    href="../common/pkg-config.xml"
     xpointer="xpointer(//*[@os='e'])"/>
 
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-    href="../common/pkg-config-lite.xml"
+    href="../common/pkg-config.xml"
     xpointer="xpointer(//*[@os='f'])"/>
 
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-    href="../common/pkg-config-lite.xml"
+    href="../common/pkg-config.xml"
     xpointer="xpointer(//*[@os='g'])"/>
 
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-    href="../common/pkg-config-lite.xml"
+    href="../common/pkg-config.xml"
     xpointer="xpointer(//*[@os='h'])"/>
 
   </sect2>
@@ -81,7 +81,7 @@
     <title/>
 
     <para>Details on this package are located in <xref
-    linkend="contents-pkg-config-lite" role="."/></para>
+    linkend="contents-pkg-config" role="."/></para>
 
   </sect2>
 

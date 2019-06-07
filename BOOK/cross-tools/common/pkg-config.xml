@@ -5,22 +5,22 @@
   %general-entities;
 ]>
 
-<sect1 id="ch-cross-tools-pkg-config-lite" role="wrap">
-  <?dbhtml filename="pkg-config-lite.html"?>
+<sect1 id="ch-cross-tools-pkg-config" role="wrap">
+  <?dbhtml filename="pkg-config.html"?>
 
-  <title>Pkg-config-lite-&pkg-config-lite-version;</title>
+  <title>Pkg-config-&pkg-config-version;</title>
 
-  <indexterm zone="ch-cross-tools-pkg-config-lite">
-    <primary sortas="a-Pkg-config-lite">Pkg-config-lite</primary>
+  <indexterm zone="ch-cross-tools-pkg-config">
+    <primary sortas="a-Pkg-config">Pkg-config</primary>
     <secondary>cross tools</secondary>
   </indexterm>
 
   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-  href="../../final-system/common/pkg-config-lite.xml"
+  href="../../final-system/common/pkg-config.xml"
   xpointer="xpointer(//*[@role='package'])"/>
 
   <sect2 role="installation">
-    <title>Installation of Pkg-config-lite</title>
+    <title>Installation of Pkg-config</title>
 
     <para os="a">Several packages in the temporary system will use
     <command>pkg-config</command> to find various required and optional
@@ -32,7 +32,7 @@
     that it will look for Pkg-config files only in
     <filename class="directory">/tools</filename>.</para>
 
-    <para os="b">Prepare Pkg-config-lite for compilation:</para>
+    <para os="b">Prepare Pkg-config for compilation:</para>
 
 <screen os="c"><userinput>./configure \
     --prefix=/cross-tools \
@@ -47,7 +47,7 @@
         <listitem>
           <para>Several packages that we will cross-compile later will try to
           search for <command>${CLFS_TARGET}-pkg-config</command>. Setting
-          this option ensures that Pkg-config-lite will create a hard
+          this option ensures that Pkg-config will create a hard
           link in <filename class="directory">/cross-tools/bin</filename> with
           this name, so that it will be used instead of any similarly-named
           program that might exist on the host.</para>
@@ -79,7 +79,7 @@
     <title/>
 
     <para>Details on this package are located in <xref
-    linkend="contents-pkg-config-lite" role="."/></para>
+    linkend="contents-pkg-config" role="."/></para>
 
   </sect2>
 

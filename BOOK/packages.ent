@@ -387,11 +387,11 @@
 <!ENTITY perl-md5 "037c35000550bdcb47552ad0f6d3064d">
 <!ENTITY perl-home "https://www.perl.org">
 
-<!ENTITY pkg-config-lite-version "0.29.2">
-<!ENTITY pkg-config-lite-size "384 KB">
-<!ENTITY pkg-config-lite-url "http://sourceforge.net/projects/pkgconfiglite/files/0.28-1/pkg-config-lite-&pkg-config-lite-version;.tar.gz">
-<!ENTITY pkg-config-lite-md5 "f6e931e319531b736fadc017f470e68a">
-<!ENTITY pkg-config-lite-home "http://sourceforge.net/projects/pkgconfiglite">
+<!ENTITY pkg-config-version "0.29.2">
+<!ENTITY pkg-config-size "384 KB">
+<!ENTITY pkg-config-url "https://pkg-config.freedesktop.org/release/pkg-config-&pkg-config-version;.tar.gz">
+<!ENTITY pkg-config-md5 "f6e931e319531b736fadc017f470e68a">
+<!ENTITY pkg-config-home "https://www.freedesktop.org/wiki/Software/pkg-config">
 
 <!ENTITY powerpcutils-version "1.1.3">
 <!ENTITY powerpcutils-size "28 KB">
