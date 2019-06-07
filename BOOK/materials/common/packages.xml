@@ -177,11 +177,11 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Eudev (&eudev-version;) - <token>&eudev-size;</token>:</term>
+      <term>Elfutils (&elfutils-version;) - <token>&elfutils-size;</token>:</term>
       <listitem>
-        <para>Home page: <ulink url="&eudev-home;"/></para>
-        <para>Download: <ulink url="&eudev-url;"/></para>
-        <para>MD5 sum: <literal>&eudev-md5;</literal></para>
+        <para>Home page: <ulink url="&elfutils-home;"/></para>
+        <para>Download: <ulink url="&elfutils-url;"/></para>
+        <para>MD5 sum: <literal>&elfutils-md5;</literal></para>
       </listitem>
     </varlistentry>
 

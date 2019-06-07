@@ -139,6 +139,12 @@
 <!ENTITY elftoaout-md5 "be3bd6f7ba8ae107cbdbaa820ba64f86">
 <!ENTITY elftoaout-home " ">
 
+<!ENTITY elfutils-version "0.176">
+<!ENTITY elfutils-size "8,444 KB">
+<!ENTITY elfutils-url "https://sourceware.org/ftp/elfutils/&elfutils-version;/elfutils-&elfutils-version;.tar.bz2">
+<!ENTITY elfutils-md5 "be3bd6f7ba8ae107cbdbaa820ba64f86">
+<!ENTITY elfutils-home "https://sourceware.org/ftp/elfutils/">
+
 <!ENTITY eudev-version "1.7">
 <!ENTITY eudev-size "1,756 KB">
 <!ENTITY eudev-url "http://dev.gentoo.org/~blueness/eudev/eudev-&eudev-version;.tar.gz">
