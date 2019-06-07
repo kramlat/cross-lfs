@@ -483,6 +483,15 @@
     </varlistentry>
 
     <varlistentry>
+      <term>Meson (&meson-version;) - <token>&meson-size;</token>:</term>
+      <listitem>
+        <para>Home page: <ulink url="&meson-home;"/></para>
+        <para>Download: <ulink url="&meson-url;"/></para>
+        <para>MD5 sum: <literal>&meson-md5;</literal></para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
       <term>MPC (&mpc-version;) - <token>&mpc-size;</token>:</term>
       <listitem>
         <para>Home page: <ulink url="&mpc-home;"/></para>
@@ -506,6 +515,24 @@
         <para>Home page: <ulink url="&ncurses-home;"/></para>
         <para>Download: <ulink url="&ncurses-url;"/></para>
         <para>MD5 sum: <literal>&ncurses-md5;</literal></para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Ninja (&ninja-version;) - <token>&ninja-size;</token>:</term>
+      <listitem>
+        <para>Home page: <ulink url="&ninja-home;"/></para>
+        <para>Download: <ulink url="&ninja-url;"/></para>
+        <para>MD5 sum: <literal>&ninja-md5;</literal></para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Openssl (&openssl-version;) - <token>&openssl-size;</token>:</term>
+      <listitem>
+        <para>Home page: <ulink url="&openssl-home;"/></para>
+        <para>Download: <ulink url="&openssl-url;"/></para>
+        <para>MD5 sum: <literal>&openssl-md5;</literal></para>
       </listitem>
     </varlistentry>
 
@@ -551,6 +578,17 @@
         <para>Home page: <ulink url="&psmisc-home;"/></para>
         <para>Download: <ulink url="&psmisc-url;"/></para>
         <para>MD5 sum: <literal>&psmisc-md5;</literal></para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Python (&python-version;) - <token>&python-size; (source)</token> <token>&pydoc-size; (documentation)</token>:</term>
+      <listitem>
+        <para>Home page: <ulink url="&python-home;"/></para>
+        <para>Download (source): <ulink url="&python-url;"/></para>
+        <para>MD5 sum (source): <literal>&python-md5;</literal></para>
+        <para>Download (documentation): <ulink url="&pydoc-url;"/></para>
+        <para>MD5 sum (documentation): <literal>&pydoc-md5;</literal></para>
       </listitem>
     </varlistentry>
 

@@ -364,6 +364,12 @@
 <!ENTITY man-pages-md5 "5f75f72efcbe5cd245c4d9f36005d070">
 <!ENTITY man-pages-home "http://www.win.tue.nl/~aeb/linux/man">
 
+<!ENTITY meson-version "0.50.1">
+<!ENTITY meson-size "1,370 KB">
+<!ENTITY meson-url "https://github.com/mesonbuild/meson/releases/download/&meson-vesion;/meson-&meson-vesion;.tar.gz">
+<!ENTITY meson-md5 "24a6527796115828d2ebc75880e18d62">
+<!ENTITY meson-home "https://mesonbuild.com/">
+
 <!ENTITY mpc-version "1.1.0">
 <!ENTITY mpc-size "670 KB">
 <!ENTITY mpc-url "http://www.multiprecision.org/mpc/download/mpc-&mpc-version;.tar.gz">
@@ -381,6 +387,18 @@
 <!ENTITY ncurses-url "&gnu;ncurses/ncurses-&ncurses-version;.tar.gz">
 <!ENTITY ncurses-md5 "98c889aaf8d23910d2b92d65be2e737a">
 <!ENTITY ncurses-home "&gnu-software;ncurses">
+
+<!ENTITY ninja-version "1.9.0">
+<!ENTITY ninja-size "187 KB">
+<!ENTITY ninja-url "https://github.com/ninja-build/ninja/archive/v&ninja-version;/ninja-&ninja-version;.tar.gz">
+<!ENTITY ninja-md5 "f340be768a76724b83e6daab69009902">
+<!ENTITY ninja-home "https://ninja-build.org/">
+
+<!ENTITY openssl-version "1.1.1c">
+<!ENTITY openssl-size "8,657 KB">
+<!ENTITY openssl-url "https://www.openssl.org/source/openssl-&openssl-version;.tar.gz">
+<!ENTITY openssl-md5 "15e21da6efe8aa0e0768ffd8cd37a5f6">
+<!ENTITY openssl-home "https://www.openssl.org/">
 
 <!ENTITY parted-version "3.1">
 <!ENTITY parted-size "1,492 KB">
@@ -423,6 +441,15 @@
 <!ENTITY psmisc-url "&sourceforge;psmisc/psmisc-&psmisc-version;.tar.gz">
 <!ENTITY psmisc-md5 "0524258861f00be1a02d27d39d8e5e62">
 <!ENTITY psmisc-home "http://psmisc.sourceforge.net">
+
+<!ENTITY python-version "3.7.3">
+<!ENTITY python-size "16,708 KB">
+<!ENTITY python-url "https://www.python.org/ftp/python/&python-version;/Python-&python-version;.tar.xz">
+<!ENTITY python-md5 "93df27aec0cd18d6d42173e601ffbbfd">
+<!ENTITY pydoc-size "6,079 KB">
+<!ENTITY pydoc-url "https://docs.python.org/ftp/python/doc/&python-version;/python-&python-version;-docs-html.tar.bz2">
+<!ENTITY pydoc-md5 "48ed2b9e97e83f4d0966f305b8e04aa4">
+<!ENTITY python-home "https://www.python.org/">
 
 <!ENTITY readline-version "8.0">
 <!ENTITY readline-size "2,910 KB">
